@@ -1,5 +1,9 @@
 ## Hi I'm Aruha!
-![Aruha](img/ais.png)
+<div align="center">
+  <img height="200" src="img/haha.gif"  />
+</div>
+
+###
 <!--
 **aruhaxs/aruhaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -9,13 +13,13 @@
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Raised%20Eyebrow.png" alt="Face with Raised Eyebrow" width="25" height="25" /> Just Random Activity
 
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aruhaxs/aruhaxs/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aruhaxs/aruhaxs/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aruhaxs/aruhaxs/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <!-- <img src="{BadgeURLHere}" /> -->
 
