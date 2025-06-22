@@ -1,5 +1,5 @@
 ## Hi I'm Aruha!
-![Aruha](img/haha.gif)
+![Aruha](img/ais.png)
 <!--
 **aruhaxs/aruhaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
